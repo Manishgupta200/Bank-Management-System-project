@@ -1,0 +1,6 @@
+CREATE TABLE Users (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    FirstName VARCHAR(255),
+    LastName VARCHAR(255),
+    Email VARCHAR(255)
+);
